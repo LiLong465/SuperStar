@@ -25,4 +25,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -15927582303 学习通账号 -27582303Lyl 学习通密码 -257368034 #课程id
+        run: python main.py 257368034 学习通账号  -15927582303 学习通密码 -27582303Lyl  #课程id 257368034
