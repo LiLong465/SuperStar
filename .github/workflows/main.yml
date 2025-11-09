@@ -25,6 +25,6 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 15927582303 -p 27582303Lyl -l 257368063 # 执行py文件
+        run: python main.py -u 13554638220 -p 1234zhouzhou -l 257368048 # 执行py文件
         
     
